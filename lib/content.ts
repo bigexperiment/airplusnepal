@@ -46,6 +46,13 @@ export async function loadTours() {
 }
 
 /**
+ * Loads trip listings
+ */
+export async function loadTrips() {
+  return loadContent<TripData>('trips.json')
+}
+
+/**
  * Loads gallery images
  */
 export async function loadGallery() {
@@ -191,6 +198,29 @@ export interface Tour {
 export interface TourData {
   featured: Tour[]
   all: Tour[]
+}
+
+export interface Trip {
+  name: string
+  slug: string
+  duration: string
+  region: string
+  image: string
+  category?: string
+  featured?: boolean
+  description?: string
+  highlights?: string[]
+  itinerary?: Array<{
+    day: number
+    title: string
+    description: string
+  }>
+  gallery?: string[]
+}
+
+export interface TripData {
+  featured: Trip[]
+  all: Trip[]
 }
 
 export interface GalleryData {
