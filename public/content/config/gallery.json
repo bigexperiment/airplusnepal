@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "src": "https://images.unsplash.com/photo-everest-view.jpg",
+      "alt": "Majestic view of Mount Everest",
+      "category": "mountains"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-prayer-flags.jpg",
+      "alt": "Colorful prayer flags in the Himalayas",
+      "category": "culture"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-sherpa-village.jpg",
+      "alt": "Traditional Sherpa village",
+      "category": "culture"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-annapurna-sunrise.jpg",
+      "alt": "Sunrise over Annapurna range",
+      "category": "mountains"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-trekker-trail.jpg",
+      "alt": "Trekkers on mountain trail",
+      "category": "trekking"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-monastery.jpg",
+      "alt": "Buddhist monastery in the mountains",
+      "category": "culture"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-rhododendron-forest.jpg",
+      "alt": "Blooming rhododendron forest",
+      "category": "nature"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-himalayan-lake.jpg",
+      "alt": "Crystal clear Himalayan lake",
+      "category": "nature"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-base-camp.jpg",
+      "alt": "Everest Base Camp",
+      "category": "trekking"
+    }
+  ]
+}

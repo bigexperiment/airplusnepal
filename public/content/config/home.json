@@ -1,0 +1,145 @@
+{
+  "hero": {
+    "title": "Discover the Magic of Nepal",
+    "subtitle": "Embark on unforgettable trekking and cultural adventures in the heart of the Himalayas with expert local guides",
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1920&h=1080&fit=crop&q=80",
+    "cta": {
+      "primary": {
+        "text": "Explore Treks",
+        "href": "/treks"
+      },
+      "secondary": {
+        "text": "Cultural Tours",
+        "href": "/tours"
+      }
+    }
+  },
+  "stats": [
+    {
+      "value": "12+",
+      "label": "Years of Experience"
+    },
+    {
+      "value": "100+",
+      "label": "Successful Treks"
+    },
+    {
+      "value": "25+",
+      "label": "Expert Guides"
+    },
+    {
+      "value": "24/7",
+      "label": "Support"
+    }
+  ],
+  "activities": [
+    {
+      "name": "Trekking Expeditions",
+      "description": "Experience the world's highest peaks with guided treks ranging from beginner-friendly trails to challenging high-altitude adventures.",
+      "icon": "mountain"
+    },
+    {
+      "name": "Cultural Tours",
+      "description": "Immerse yourself in Nepal's rich heritage with visits to ancient temples, vibrant markets, and traditional villages.",
+      "icon": "camera"
+    },
+    {
+      "name": "Adventure Sports",
+      "description": "Push your limits with paragliding, rafting, and rock climbing in some of the world's most spectacular locations.",
+      "icon": "map"
+    }
+  ],
+  "sections": {
+    "treks": {
+      "title": "Featured Treks",
+      "subtitle": "Explore our most popular trekking routes in the Himalayas"
+    },
+    "tours": {
+      "title": "Cultural Tours",
+      "subtitle": "Discover the heart and soul of Nepal"
+    },
+    "why": {
+      "title": "Why Choose Air Plus Nepal Treks",
+      "features": [
+        {
+          "title": "Certified & Trusted",
+          "description": "Government-licensed trekking company with certified guides and a proven track record of safe, successful expeditions.",
+          "icon": "shield-check"
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Our guides are born and raised in the Himalayas, offering authentic insights and deep knowledge of the terrain and culture.",
+          "icon": "users"
+        },
+        {
+          "title": "Tailor-Made Itineraries",
+          "description": "Every trek is customized to your fitness level, interests, and schedule. Your adventure, your way.",
+          "icon": "map-pin"
+        },
+        {
+          "title": "Safety First",
+          "description": "We prioritize your well-being with comprehensive insurance, acclimatization schedules, and emergency evacuation plans.",
+          "icon": "heart-pulse"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Moments from Nepal",
+      "subtitle": "Captured by our travelers"
+    },
+    "cta": {
+      "title": "Ready for the Adventure of a Lifetime?",
+      "description": "Let us help you plan your perfect Himalayan journey. From epic treks to cultural immersions, your Nepal adventure starts here.",
+      "buttonText": "Start Planning",
+      "buttonHref": "/contact"
+    }
+  },
+  "testimonials": [
+    {
+      "quote": "An incredible experience from start to finish. Our guide was knowledgeable, patient, and made sure we were safe every step of the way. The views were breathtaking!",
+      "author": "Sarah Johnson",
+      "location": "United States"
+    },
+    {
+      "quote": "Best decision I ever made! The team at Air Plus Nepal Treks took care of everything. I felt like I was trekking with friends rather than guides.",
+      "author": "David Chen",
+      "location": "Australia"
+    },
+    {
+      "quote": "The Annapurna Circuit was a dream come true. The itinerary was perfect for our pace, and the cultural experiences along the way were unforgettable.",
+      "author": "Emma Martinez",
+      "location": "Spain"
+    },
+    {
+      "quote": "Professional, organized, and genuinely caring. They went above and beyond to make our trek special. Can't wait to come back!",
+      "author": "James Wilson",
+      "location": "United Kingdom"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the best time to trek in Nepal?",
+      "answer": "The best trekking seasons are autumn (September to November) and spring (March to May). These periods offer clear skies, moderate temperatures, and excellent mountain views. However, some treks can be done year-round with proper preparation."
+    },
+    {
+      "question": "Do I need previous trekking experience?",
+      "answer": "Not necessarily! We offer treks for all experience levels, from beginner-friendly trails to challenging high-altitude expeditions. We'll help you choose a trek that matches your fitness level and experience."
+    },
+    {
+      "question": "What's included in the trek package?",
+      "answer": "Our packages typically include airport transfers, accommodation, meals during the trek, experienced guides and porters, trekking permits, and emergency support. Specific inclusions vary by trek, so please check individual trek details."
+    },
+    {
+      "question": "How do I prepare physically for a trek?",
+      "answer": "We recommend cardiovascular training (hiking, running, cycling) for 2-3 months before your trek. Focus on building endurance and leg strength. We'll provide a detailed preparation guide upon booking."
+    },
+    {
+      "question": "What about altitude sickness?",
+      "answer": "We design our itineraries with proper acclimatization days to minimize altitude sickness risk. Our guides are trained to recognize symptoms and carry necessary medications. We also have emergency evacuation procedures in place."
+    },
+    {
+      "question": "Can I customize my trek itinerary?",
+      "answer": "Absolutely! We specialize in tailor-made itineraries. Whether you want to add extra days, change the route, or combine multiple experiences, we'll work with you to create your perfect adventure."
+    }
+  ]
+}

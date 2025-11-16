@@ -1,0 +1,192 @@
+{
+  "featured": [
+    {
+      "name": "Everest Base Camp Trek",
+      "slug": "everest-base-camp",
+      "duration": "14 Days",
+      "region": "Everest Region",
+      "difficulty": "Moderate",
+      "elevation": "5,364m",
+      "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "The iconic trek to Everest Base Camp takes you through stunning Sherpa villages, ancient monasteries, and breathtaking mountain vistas. Stand at the foot of the world's highest peak and experience the magic of the Khumbu region.",
+      "highlights": [
+        "Views of Mt. Everest, Lhotse, and Ama Dablam",
+        "Visit Tengboche Monastery",
+        "Experience Sherpa culture in Namche Bazaar",
+        "Fly from Kathmandu to Lukla",
+        "Trek through Sagarmatha National Park"
+      ]
+    },
+    {
+      "name": "Annapurna Circuit Trek",
+      "slug": "annapurna-circuit",
+      "duration": "16 Days",
+      "region": "Annapurna Region",
+      "difficulty": "Moderate to Challenging",
+      "elevation": "5,416m",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "One of the world's classic treks, the Annapurna Circuit offers incredible diversity - from lush subtropical forests to high-altitude desert landscapes. Cross the Thorong La pass and witness some of the most spectacular mountain scenery on Earth.",
+      "highlights": [
+        "Cross Thorong La Pass (5,416m)",
+        "Visit the sacred Muktinath Temple",
+        "Experience diverse climates and landscapes",
+        "Views of Annapurna, Dhaulagiri, and Machhapuchhre",
+        "Hot springs at Tatopani"
+      ]
+    },
+    {
+      "name": "Langtang Valley Trek",
+      "slug": "langtang-valley",
+      "duration": "10 Days",
+      "region": "Langtang Region",
+      "difficulty": "Moderate",
+      "elevation": "3,870m",
+      "image": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Explore the beautiful Langtang Valley, known as the 'Valley of Glaciers'. This trek offers stunning mountain views, rich Tamang culture, and beautiful alpine forests, all within easy reach of Kathmandu.",
+      "highlights": [
+        "Visit traditional Tamang villages",
+        "Stunning views of Langtang Lirung",
+        "Explore Kyanjin Gompa monastery",
+        "Hike to Kyanjin Ri or Tserko Ri",
+        "Experience yak cheese factories"
+      ]
+    },
+    {
+      "name": "Annapurna Base Camp Trek",
+      "slug": "annapurna-base-camp",
+      "duration": "12 Days",
+      "region": "Annapurna Region",
+      "difficulty": "Moderate",
+      "elevation": "4,130m",
+      "image": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Trek into the heart of the Annapurna Sanctuary, surrounded by towering peaks. This trek combines natural hot springs, charming Gurung villages, and spectacular mountain amphitheater views.",
+      "highlights": [
+        "360-degree mountain views at ABC",
+        "Natural hot springs at Jhinu Danda",
+        "Pass through diverse landscapes",
+        "Visit Poon Hill for sunrise views",
+        "Experience Gurung hospitality"
+      ]
+    },
+    {
+      "name": "Manaslu Circuit Trek",
+      "slug": "manaslu-circuit",
+      "duration": "16 Days",
+      "region": "Manaslu Region",
+      "difficulty": "Challenging",
+      "elevation": "5,160m",
+      "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Circle the world's eighth-highest mountain on this challenging trek. Experience remote villages, ancient Tibetan culture, and dramatic landscapes with fewer crowds than the popular Everest and Annapurna regions.",
+      "highlights": [
+        "Cross Larkya La Pass (5,160m)",
+        "Views of Mount Manaslu (8,163m)",
+        "Experience authentic Tibetan Buddhist culture",
+        "Remote and less-crowded trails",
+        "Diverse ecosystems and landscapes"
+      ]
+    },
+    {
+      "name": "Ghorepani Poon Hill Trek",
+      "slug": "ghorepani-poon-hill",
+      "duration": "5 Days",
+      "region": "Annapurna Region",
+      "difficulty": "Easy",
+      "elevation": "3,210m",
+      "image": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Perfect for beginners or those with limited time, this short trek offers spectacular sunrise views over the Annapurna and Dhaulagiri ranges from Poon Hill, along with charming Gurung villages.",
+      "highlights": [
+        "Sunrise from Poon Hill viewpoint",
+        "Panoramic Himalayan views",
+        "Walk through rhododendron forests",
+        "Experience Gurung culture",
+        "Ideal for beginners"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "name": "Everest Base Camp Trek",
+      "slug": "everest-base-camp",
+      "duration": "14 Days",
+      "region": "Everest Region",
+      "difficulty": "Moderate",
+      "elevation": "5,364m",
+      "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=600&fit=crop",
+      "featured": true
+    },
+    {
+      "name": "Annapurna Circuit Trek",
+      "slug": "annapurna-circuit",
+      "duration": "16 Days",
+      "region": "Annapurna Region",
+      "difficulty": "Moderate to Challenging",
+      "elevation": "5,416m",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Langtang Valley Trek",
+      "slug": "langtang-valley",
+      "duration": "10 Days",
+      "region": "Langtang Region",
+      "difficulty": "Moderate",
+      "elevation": "3,870m",
+      "image": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Annapurna Base Camp Trek",
+      "slug": "annapurna-base-camp",
+      "duration": "12 Days",
+      "region": "Annapurna Region",
+      "difficulty": "Moderate",
+      "elevation": "4,130m",
+      "image": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Manaslu Circuit Trek",
+      "slug": "manaslu-circuit",
+      "duration": "16 Days",
+      "region": "Manaslu Region",
+      "difficulty": "Challenging",
+      "elevation": "5,160m",
+      "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Ghorepani Poon Hill Trek",
+      "slug": "ghorepani-poon-hill",
+      "duration": "5 Days",
+      "region": "Annapurna Region",
+      "difficulty": "Easy",
+      "elevation": "3,210m",
+      "image": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Upper Mustang Trek",
+      "slug": "upper-mustang",
+      "duration": "14 Days",
+      "region": "Mustang Region",
+      "difficulty": "Moderate",
+      "elevation": "3,840m",
+      "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Everest Three Passes Trek",
+      "slug": "everest-three-passes",
+      "duration": "19 Days",
+      "region": "Everest Region",
+      "difficulty": "Challenging",
+      "elevation": "5,545m",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80"
+    }
+  ]
+}

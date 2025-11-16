@@ -1,0 +1,19 @@
+{
+  "office": {
+    "name": "Air Plus Nepal Treks",
+    "address": "Thamel, Kathmandu, Nepal",
+    "phones": ["+977 1-4701234", "+977 9851234567"],
+    "whatsapp": "+977 9851234567",
+    "email": "info@airplusnepal.com"
+  },
+  "company": {
+    "registered": "Company Registration No: 123456/078/079",
+    "tourismLicense": "Tourism License No: 1234/078",
+    "vat": "PAN/VAT No: 123456789"
+  },
+  "social": {
+    "facebook": "https://facebook.com/airplusnepal",
+    "instagram": "https://instagram.com/airplusnepal",
+    "twitter": "https://twitter.com/airplusnepal"
+  }
+}

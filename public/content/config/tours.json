@@ -1,0 +1,92 @@
+{
+  "featured": [
+    {
+      "name": "Kathmandu Valley Cultural Tour",
+      "slug": "kathmandu-valley",
+      "duration": "3 Days",
+      "region": "Kathmandu",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Explore the UNESCO World Heritage Sites of Kathmandu Valley, including ancient temples, stupas, and medieval palaces that showcase Nepal's rich cultural heritage.",
+      "highlights": [
+        "Visit Swayambhunath (Monkey Temple)",
+        "Explore Pashupatinath Temple",
+        "Tour Boudhanath Stupa",
+        "Discover Kathmandu Durbar Square",
+        "Experience Patan's ancient architecture"
+      ]
+    },
+    {
+      "name": "Chitwan Jungle Safari",
+      "slug": "chitwan-safari",
+      "duration": "3 Days",
+      "region": "Chitwan",
+      "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Experience Nepal's wildlife in Chitwan National Park. Spot one-horned rhinos, Bengal tigers, and hundreds of bird species in their natural habitat.",
+      "highlights": [
+        "Jungle safari by jeep or elephant",
+        "Canoe ride on Rapti River",
+        "Visit elephant breeding center",
+        "Tharu cultural dance performance",
+        "Bird watching tours"
+      ]
+    },
+    {
+      "name": "Pokhara & Sarangkot Tour",
+      "slug": "pokhara-sarangkot",
+      "duration": "3 Days",
+      "region": "Pokhara",
+      "image": "https://images.unsplash.com/photo-1586016650889-4a88d8209a92?w=800&h=600&fit=crop&q=80",
+      "featured": true,
+      "description": "Discover the lakeside paradise of Pokhara, with stunning mountain views, serene lakes, and adventure activities. Watch the sunrise over the Annapurnas from Sarangkot.",
+      "highlights": [
+        "Sunrise from Sarangkot viewpoint",
+        "Boat ride on Phewa Lake",
+        "Visit Peace Pagoda",
+        "Explore Davis Falls and caves",
+        "Optional paragliding adventure"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "name": "Kathmandu Valley Cultural Tour",
+      "slug": "kathmandu-valley",
+      "duration": "3 Days",
+      "region": "Kathmandu",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Chitwan Jungle Safari",
+      "slug": "chitwan-safari",
+      "duration": "3 Days",
+      "region": "Chitwan",
+      "image": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Pokhara & Sarangkot Tour",
+      "slug": "pokhara-sarangkot",
+      "duration": "3 Days",
+      "region": "Pokhara",
+      "image": "https://images.unsplash.com/photo-1586016650889-4a88d8209a92?w=800&h=600&fit=crop&q=80",
+      "featured": true
+    },
+    {
+      "name": "Lumbini Pilgrimage Tour",
+      "slug": "lumbini-pilgrimage",
+      "duration": "2 Days",
+      "region": "Lumbini",
+      "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=800&h=600&fit=crop&q=80"
+    },
+    {
+      "name": "Nagarkot Sunrise Tour",
+      "slug": "nagarkot-sunrise",
+      "duration": "2 Days",
+      "region": "Nagarkot",
+      "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?w=800&h=600&fit=crop&q=80"
+    }
+  ]
+}
